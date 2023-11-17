@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Executar Script TypeScript",
+            "type": "shell",
+            "command": "ts-node",
+            "args": ["c:/Users/alanj/OneDrive/Imagens/Trabalho ADA dia 20"],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        }
+    ]
+}
